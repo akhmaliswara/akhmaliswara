@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Redis, RabbitMQ**
 
-- 💬 Ask me about **ReactJS, Vue.js, ASP.NET Core, PostgreSQL, TypeScript**
+- 💬 Ask me about **ReactJS, Vue.js, ASP.NET Core, PostgreSQL, TypeScript, Node.js**
 
 - 📫 How to reach me **akhmaliswara@gmail.com**
 
